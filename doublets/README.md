@@ -4,8 +4,6 @@ This Clojure Kata comes from _Alice in Wonderland_'s author, Lewis
 Carroll. He came up with this word puzzle that he named _Doublets_.
 
 ![Mad Hatter](/images/madhatter.gif)
-<img src="http://www.gutenberg.org/files/114/114-h/images/alice26a.gif"/>
-
 
 The puzzle is to take two words of the same length and find a way of linking the
 first word to the second word by only changing one letter at a time.  At the end tranformation,
