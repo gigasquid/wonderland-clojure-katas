@@ -1,10 +1,33 @@
 # wonderland-clojure-katas
 
-A Clojure library designed to ... well, that part is up to you.
+These are a collection of Clojure
+[katas](http://en.wikipedia.org/wiki/Kata_%28programming%29) inspired
+Lewis Carroll and _Alice and Wonderland_.
 
-## Usage
+![Alice and the tiny door](/images/alicedoor.gif)
 
-FIXME
+>“Curiouser and curiouser!” 
+>-- ― Lewis Carroll, Alice in Wonderland
+
+## How to Do the Katas
+
+First, clone or fork this repo. Each of the katas are in their own
+directory and are self contained Clojure leiningen projects.  You `cd`
+into the project and run `lein test` to show the failing tests, then
+complete the code to make the tests pass. Each project has the
+instructions in its own _README.md_ file.
+
+If you don't have Leiningen installed yet.  Follow these [instructions](http://leiningen.org/)
+to get it.
+
+For example, to get started on the _doublets_ kata first.
+
+1. Clone or Fork this repo
+2. cd `doublets`
+3. run `lein test`
+4. Check out the doublet instructions in the _README.md_.
+5. Add the code in the source files to make the tests pass.
+
 
 ## License
 
