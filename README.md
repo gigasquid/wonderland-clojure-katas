@@ -2,7 +2,7 @@
 
 These are a collection of Clojure
 [katas](http://en.wikipedia.org/wiki/Kata_%28programming%29) inspired
-Lewis Carroll and _Alice and Wonderland_.
+[Lewis Carroll](http://en.wikipedia.org/wiki/Lewis_Carroll) and _Alice and Wonderland_.
 
 ![Alice and the tiny door](/images/alicedoor.gif)
 
@@ -31,7 +31,7 @@ For example, to get started on the _doublets_ kata first.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
