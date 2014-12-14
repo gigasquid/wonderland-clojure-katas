@@ -1,7 +1,7 @@
 # magic-square
 
-This puzzle comes from Lewis Carroll.  It has to do with arranging
-values on a square so that adding them up in any direction results in
+This puzzle comes from Lewis Carroll.  The magic part is when the
+values on a square are arranged so that adding them up in any direction results in
 a constant sum.
 
 ![caterpillar](/images/caterpillar.gif)
