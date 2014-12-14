@@ -17,8 +17,8 @@ A maze is represented by a matrix
 
 - _S_ : start of the maze
 - _E_ : end of the maze
-- _1_ : This is a wall that you cannot pass through.
-_ _0_ : A free space that you can move through.
+- _1_ : This is a wall that you cannot pass through
+- _0_ : A free space that you can move through.
 
 The goal is the get to the end of the maze.  A solved maze will have a
 _:x_ in the start, the path, and the end of the maze, like this.
