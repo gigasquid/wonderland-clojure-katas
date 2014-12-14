@@ -4,7 +4,7 @@ This puzzle comes from Lewis Carroll.  It has to do with arranging
 values on a square so that adding them up in any direction results in
 a constant sum.
 
-[!caterpillar](/images/caterpillar.gif)
+![caterpillar](/images/caterpillar.gif)
 
 You have the following values:
 
