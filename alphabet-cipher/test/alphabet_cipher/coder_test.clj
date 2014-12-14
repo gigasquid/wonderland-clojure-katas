@@ -6,7 +6,7 @@
   (testing "can encode give a secret keyword"
     (is (= "hmkbxebpxpmyllyrxiiqtoltfgzzv"
            (encode "vigilance" "meetmeontuesdayeveningatseven")))
-    (is (= "dfrfpvszgthkifr"
+    (is (= "egsgqwtahuiljgs"
            (encode "scones" "meetmebythetree")))))
 
 (deftest test-decode
@@ -14,4 +14,4 @@
     (is (= "meetmeontuesdayeveningatseven"
            (decode "vigilance" "hmkbxebpxpmyllyrxiiqtoltfgzzv")))
     (is (= "meetmebythetree"
-           (decode "scones" "dfrfpvszgthkifr")))))
+           (decode "scones" "egsgqwtahuiljgs")))))

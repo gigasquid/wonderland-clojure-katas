@@ -11,7 +11,7 @@ First you must make a substitution chart like this, where each row of
 the alphabet is rotated by one as each letter goes down the chart.
 
 ```
-  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+   ABCDEFGHIJKLMNOPQRSTUVWXYZ
  A abcdefghijklmnopqrstuvwxyz 
  B bcdefghijklmnopqrstuvwxyza 
  C cdefghijklmnopqrstuvwxyzab 
@@ -60,7 +60,7 @@ Now you can look up the column _S_ in the table and follow it down until it meet
 ```
 sconessconessco
 meetmebythetree
-dfrfpvszgthkifr
+egsgqwtahuiljgs
 ```
 
 The encoded message is now `dfrfpvszgthkifr`
