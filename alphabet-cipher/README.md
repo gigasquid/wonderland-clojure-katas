@@ -55,7 +55,7 @@ sconessconessco
 meetmebythetree
 ```
 
-Now you can look up the column _S_ in the table and follow it down until it meets the _M_ row. The value at the intersection is the letter _d_.  All the letters would be thus encoded.
+Now you can look up the column _S_ in the table and follow it down until it meets the _M_ row. The value at the intersection is the letter _e_.  All the letters would be thus encoded.
 
 ```
 sconessconessco
