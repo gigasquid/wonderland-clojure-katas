@@ -22,6 +22,3 @@
                 [1  0 :x 1]
                 [1  1  :x ::x]]]
      (is (= sol (solve-maze maze))))))
-
-
-
