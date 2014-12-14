@@ -48,7 +48,7 @@ To encode the message, first write down the message.
 meetmebythetree
 ```
 
-Then, write the keyword, repeated as many times as necessary.
+Then, write the keyword, (which in this case is _scones_), repeated as many times as necessary.
 
 ```
 sconessconessco
