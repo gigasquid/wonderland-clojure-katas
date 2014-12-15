@@ -13,7 +13,7 @@
     (is (= ["bank" "bonk" "book" "look" "loon" "loan"]
            (doublets "bank" "loan")))
 
-    (is (= ["wheat" "cheat" "cheap" "creep" "breed" "bread"]
+    (is (= ["wheat" "cheat" "cheap" "cheep" "creep" "breed" "bread"]
            (doublets "wheat" "bread"))))
 
   (testing "with no word links found"
