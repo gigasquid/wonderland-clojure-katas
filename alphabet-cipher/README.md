@@ -63,7 +63,7 @@ meetmebythetree
 egsgqwtahuiljgs
 ```
 
-The encoded message is now `dfrfpvszgthkifr`
+The encoded message is now `egsgqwtahuiljgs`
 
 To decode, the person would use the secret keyword and do the opposite.
 
