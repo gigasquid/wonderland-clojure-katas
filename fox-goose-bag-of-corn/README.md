@@ -42,7 +42,7 @@ The goal is to have the plan in steps so that all make it safely to the other si
 ## Instructions
 
 - Clone of fork this repo
-- `cd wonderland-number`
+- `cd fox-goose-bag-of-corn`
 - Run the tests with `lein test`
 - Make the tests pass!
 
