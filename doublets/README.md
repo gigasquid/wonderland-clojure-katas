@@ -6,7 +6,7 @@ Carroll. He came up with this word puzzle that he named _Doublets_.
 ![Mad Hatter](/images/madhatter.gif)
 
 The puzzle is to take two words of the same length and find a way of linking the
-first word to the second word by only changing one letter at a time.  At the end tranformation,
+first word to the second word by only changing one letter at a time.  At the end of the transformation,
 there will be a collections of words that show the beginning word being changed
 into the ending word, one letter at a time.  All the _word links_ must be in Lewis Carroll's own words:
 
