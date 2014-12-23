@@ -15,6 +15,5 @@
   (testing "if the ranks are equal, hearts beat diamonds"))
 
 (deftest test-play-game
-  (testing "the player loses when they run out of cards")
-  (testing "if both players run out of cards then it is a draw"))
+  (testing "the player loses when they run out of cards"))
 
