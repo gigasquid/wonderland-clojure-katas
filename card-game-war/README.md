@@ -18,7 +18,6 @@ The rules of this card game are quite simple.
   the highest suit.  The suits ranks in order of ascending value are
   spades, clubs, diamonds, and hearts.
 - The player that runs out of cards loses.
-- If both players run out of cards at the same time, then it is a draw.
 
 
 ## Instructions
