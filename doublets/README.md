@@ -52,6 +52,13 @@ breed
 bread
 ```
 
+## Hints
+
+This kata is a bit tricky.  You might want to start off with a really small dictionary, (like just the word link solutions) and make it pass from there.
+
+Also don't be shy looking for other libraries or tools to help you.
+
+
 ## Instructions
 
 - Clone of fork this repo
