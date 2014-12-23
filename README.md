@@ -21,10 +21,10 @@ instructions in its own _README.md_ file.
 If you don't have Leiningen installed yet.  Follow these [instructions](http://leiningen.org/)
 to get it.
 
-For example, to get started on the _doublets_ kata first.
+For example, to get started on the _alphabet-cipher_ kata first.
 
 1. Clone or Fork this repo
-2. cd `doublets`
+2. cd `alphabet-cipher`
 3. run `lein test`
 4. Check out the doublet instructions in the _README.md_.
 5. Add the code in the source files to make the tests pass.
