@@ -26,7 +26,7 @@ For example, to get started on the _alphabet-cipher_ kata first.
 1. Clone or Fork this repo
 2. cd `alphabet-cipher`
 3. run `lein test`
-4. Check out the doublet instructions in the _README.md_.
+4. Check out the alphabet cipher instructions in the _README.md_.
 5. Add the code in the source files to make the tests pass.
 
 
