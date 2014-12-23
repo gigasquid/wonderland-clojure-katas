@@ -52,11 +52,6 @@ breed
 bread
 ```
 
-## Hints
-
-This kata is a bit tricky.  You might want to start off with a really small dictionary, (like just the word link solutions) and make it pass from there.
-
-Also don't be shy looking for other libraries or tools to help you.
 
 
 ## Instructions
@@ -67,6 +62,12 @@ Also don't be shy looking for other libraries or tools to help you.
 - Make the tests pass!
 
 A sample dictionary has been included with a few words to get things going.  After you solve the kata, you might want to try a bigger dictionary to discover more exciting doublets.
+
+## Hints
+
+This kata is a bit tricky.  You might want to start off with a really small dictionary, (like just the word link solutions) and make it pass from there.
+
+Also don't be shy looking for other libraries or tools to help you.
 
 
 ## Solutions
