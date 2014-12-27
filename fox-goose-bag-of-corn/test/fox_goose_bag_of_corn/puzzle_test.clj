@@ -22,5 +22,5 @@
 
 (deftest test-river-crossing-plan
   (testing "the fox, goose, corn, and you all made it to the other side of the river"
-    (is (= (map set solution)
-           (map set (river-crossing-plan))))))
+    (is (= (map (partial map set) solution)
+           (map (partial map set) (river-crossing-plan))))))
