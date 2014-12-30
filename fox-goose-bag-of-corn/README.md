@@ -50,6 +50,8 @@ The goal is to have the plan in steps so that all make it safely to the other si
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
+https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
+
 If you haven't solved your kata yet - Don't Peek!
 
 ## License

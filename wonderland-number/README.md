@@ -27,6 +27,7 @@ You must find a way to generate this wonderland number.
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
 https://github.com/mwfogleman/wonderland-clojure-katas/tree/wonderlandnumber
+https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/wonderland-number
 
 If you haven't solved your kata yet - Don't Peek!
 
