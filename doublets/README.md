@@ -56,7 +56,7 @@ bread
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd doublets`
 - Run the tests with `lein test`
 - Make the tests pass!
