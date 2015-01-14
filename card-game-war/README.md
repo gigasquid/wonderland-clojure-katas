@@ -22,7 +22,7 @@ The rules of this card game are quite simple.
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd card-game-war`
 - Run the tests with `lein test`
 - In this kata, you will be prompted to fill in your own tests.
