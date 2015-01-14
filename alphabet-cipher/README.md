@@ -70,7 +70,7 @@ To decode, the person would use the secret keyword and do the opposite.
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd alphabet-cipher`
 - Run the tests with `lein test`
 - Make the tests pass!

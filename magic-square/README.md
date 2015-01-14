@@ -29,7 +29,7 @@ You need to arrange them in a 3 x 3 matrix so that:
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd magic-square`
 - Run the tests with `lein test`
 - Make the tests pass!

@@ -32,7 +32,7 @@ _:x_ in the start, the path, and the end of the maze, like this.
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd tiny-maze`
 - Run the tests with `lein test`
 - Make the tests pass!

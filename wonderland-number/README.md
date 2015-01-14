@@ -9,7 +9,7 @@ also quite strange.
 You must find a way to generate this wonderland number.
 
 - It has six digits
-- It you multiply it by 2,3,4,5, or 6, the resulting number has all
+- If you multiply it by 2,3,4,5, or 6, the resulting number has all
   the same digits in at as the original number.  The only difference
   is the position that they are in.
 
@@ -17,7 +17,7 @@ You must find a way to generate this wonderland number.
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd wonderland-number`
 - Run the tests with `lein test`
 - Make the tests pass!

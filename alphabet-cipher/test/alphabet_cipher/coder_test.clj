@@ -3,7 +3,7 @@
             [alphabet-cipher.coder :refer :all]))
 
 (deftest test-encode
-  (testing "can encode give a secret keyword"
+  (testing "can encode given a secret keyword"
     (is (= "hmkbxebpxpmyllyrxiiqtoltfgzzv"
            (encode "vigilance" "meetmeontuesdayeveningatseven")))
     (is (= "egsgqwtahuiljgs"
