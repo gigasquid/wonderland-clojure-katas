@@ -1,6 +1,7 @@
 (ns fox-goose-bag-of-corn.puzzle-test
   (:require [clojure.test :refer :all]
-            [fox-goose-bag-of-corn.puzzle :refer :all]))
+            [fox-goose-bag-of-corn.puzzle :refer :all]
+            [clojure.set]))
 
 (defn validate-move [step1 step2]
   (testing "only you and another thing can move"
