@@ -32,10 +32,10 @@ The rules of this card game are quite simple.
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
-https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/card-game-war
-https://github.com/gensym/wonderland-clojure-katas/tree/card-game-war-solution/card-game-war
-https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/card-game-war
-https://github.com/werand/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/gensym/wonderland-clojure-katas/tree/card-game-war-solution/card-game-war
+* https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/werand/wonderland-clojure-katas/tree/master/card-game-war
 
 If you haven't solved your kata yet - Don't Peek!
 

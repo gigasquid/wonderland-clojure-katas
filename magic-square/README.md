@@ -38,10 +38,10 @@ You need to arrange them in a 3 x 3 matrix so that:
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
-https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/magic-square
-https://github.com/miner/wonderland-clojure-katas/tree/magic/magic-square
-https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/magic-square
-https://github.com/werand/wonderland-clojure-katas/tree/master/magic-square
+* https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/magic-square
+* https://github.com/miner/wonderland-clojure-katas/tree/magic/magic-square
+* https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/magic-square
+* https://github.com/werand/wonderland-clojure-katas/tree/master/magic-square
 
 If you haven't solved your kata yet - Don't Peek!
 

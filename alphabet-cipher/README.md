@@ -79,14 +79,14 @@ To decode, the person would use the secret keyword and do the opposite.
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
-https://github.com/gensym/wonderland-clojure-katas/tree/alphabet-cipher-solution/alphabet-cipher
-https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/alphabet-cipher
-https://github.com/mwfogleman/wonderland-clojure-katas/tree/alphabet/alphabet-cipher
-https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/alphabet-cipher
-https://github.com/rbxbx/wonderland-clojure-katas/tree/master/alphabet-cipher/
-https://github.com/gnandretta/wonderland-clojure-katas/tree/master/alphabet-cipher
-https://github.com/werand/wonderland-clojure-katas/tree/master/alphabet-cipher
-https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/gensym/wonderland-clojure-katas/tree/alphabet-cipher-solution/alphabet-cipher
+* https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/mwfogleman/wonderland-clojure-katas/tree/alphabet/alphabet-cipher
+* https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/rbxbx/wonderland-clojure-katas/tree/master/alphabet-cipher/
+* https://github.com/gnandretta/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/werand/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/alphabet-cipher
 
 If you haven't solved your kata yet - Don't Peek!
 
