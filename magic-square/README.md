@@ -1,4 +1,4 @@
-# magic-square
+﻿# magic-square
 
 This puzzle comes from Lewis Carroll.  The magic part is when the
 values on a square are arranged so that adding them up in any direction results in
@@ -41,6 +41,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/magic-square
 
 https://github.com/miner/wonderland-clojure-katas/tree/magic/magic-square
+https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/magic-square
 
 If you haven't solved your kata yet - Don't Peek!
 

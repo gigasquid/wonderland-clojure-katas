@@ -1,4 +1,4 @@
-# wonderland-number
+﻿# wonderland-number
 
 Wonderland is a strange place.  There is a wonderland number that is
 also quite strange.
@@ -28,6 +28,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 
 https://github.com/mwfogleman/wonderland-clojure-katas/tree/wonderlandnumber
 https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/wonderland-number
+https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/wonderland-number
 
 If you haven't solved your kata yet - Don't Peek!
 
