@@ -79,6 +79,7 @@ https://github.com/mwfogleman/wonderland-clojure-katas/tree/doublets/doublets
 https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/doublets
 https://github.com/paulhenrich/wonderland-clojure-katas/blob/solving/doublets/src/doublets/solver.clj
 https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/doublets
+https://github.com/werand/wonderland-clojure-katas/tree/master/doublets
 
 If you haven't solved your kata yet - Don't Peek!
 

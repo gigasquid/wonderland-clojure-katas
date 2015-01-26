@@ -86,6 +86,7 @@ https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/alphabet
 https://github.com/rbxbx/wonderland-clojure-katas/tree/master/alphabet-cipher/
 https://github.com/gnandretta/wonderland-clojure-katas/tree/master/alphabet-cipher
 https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/alphabet-cipher
+https://github.com/werand/wonderland-clojure-katas/tree/master/alphabet-cipher
 
 If you haven't solved your kata yet - Don't Peek!
 

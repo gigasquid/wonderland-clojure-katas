@@ -42,6 +42,7 @@ https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/magic-sq
 
 https://github.com/miner/wonderland-clojure-katas/tree/magic/magic-square
 https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/magic-square
+https://github.com/werand/wonderland-clojure-katas/tree/master/magic-square
 
 If you haven't solved your kata yet - Don't Peek!
 
