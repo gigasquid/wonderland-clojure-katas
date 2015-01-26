@@ -1,4 +1,4 @@
-# tiny-maze
+﻿# tiny-maze
 
 Alice found herself very tiny and wandering around Wonderland.  Even
 the grass around her seemed like a maze.
@@ -42,6 +42,8 @@ _:x_ in the start, the path, and the end of the maze, like this.
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
 https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/tiny-maze
+https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/tiny-maze
+https://github.com/werand/wonderland-clojure-katas/tree/master/tiny-maze
 
 If you haven't solved your kata yet - Don't Peek!
 
