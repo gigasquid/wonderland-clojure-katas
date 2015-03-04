@@ -87,6 +87,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/gnandretta/wonderland-clojure-katas/tree/master/alphabet-cipher
 * https://github.com/werand/wonderland-clojure-katas/tree/master/alphabet-cipher
 * https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/bartiosze/wonderland-clojure-katas/tree/origin-solution/alphabet-cipher
 
 If you haven't solved your kata yet - Don't Peek!
 
