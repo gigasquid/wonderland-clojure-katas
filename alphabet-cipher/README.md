@@ -90,6 +90,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/alphabet-cipher
 * https://github.com/bartiosze/wonderland-clojure-katas/tree/origin-solution/alphabet-cipher
 * https://github.com/armyofevilrobots/wonderland-clojure-katas/tree/aoer_run_mar2015/alphabet-cipher
+* https://github.com/yzernik/wonderland-clojure-katas/tree/master/alphabet-cipher
 
 If you haven't solved your kata yet - Don't Peek!
 
