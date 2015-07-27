@@ -18,4 +18,9 @@
   (testing "all the rows, columns, and diagonal add to the same number"
     (is (= (set (sum-rows (magic-square values)))
            (set (sum-cols (magic-square values)))
-           (set (sum-diagonals (magic-square values)))))))
+           (set (sum-diagonals (magic-square values)))))
+
+    (is (= 1
+           (count (set (sum-rows (magic-square values))))
+           (count (set (sum-cols (magic-square values))))
+           (count (set (sum-diagonals (magic-square values))))))))
