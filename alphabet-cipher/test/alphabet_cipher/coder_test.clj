@@ -9,6 +9,14 @@
     (is (= "egsgqwtahuiljgs"
            (encode "scones" "meetmebythetree")))))
 
+(deftest second-char-greater-then-first-number-of-rotations-returned-correctly
+  (testing "given s to e, number of rotations is 12")
+  (is (= 3 (number-of-alphabet-rotations-from-to \b \e))))
+
+(deftest second-char-less-then-first-number-of-rotations-returned-correctly
+  (testing "given s to e, number of rotations is 12")
+  (is (= 12 (number-of-alphabet-rotations-from-to \s \e))))
+
 (deftest test-decode
   (testing "can decode an cyrpted message given a secret keyword"
     (is (= "meetmeontuesdayeveningatseven"
