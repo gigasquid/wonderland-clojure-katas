@@ -30,6 +30,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/wonderland-number
 * https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/wonderland-number
 * https://github.com/werand/wonderland-clojure-katas/tree/master/wonderland-number
+* https://github.com/priort/wonderland-clojure-katas/tree/master/wonderland-number
 
 If you haven't solved your kata yet - Don't Peek!
 
