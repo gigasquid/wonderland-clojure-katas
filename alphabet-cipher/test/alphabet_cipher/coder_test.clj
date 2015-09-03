@@ -15,3 +15,10 @@
            (decode "vigilance" "hmkbxebpxpmyllyrxiiqtoltfgzzv")))
     (is (= "meetmebythetree"
            (decode "scones" "egsgqwtahuiljgs")))))
+
+(deftest test-decypher
+  (testing "can extract the secret keyword given an cyrpted message and tho original message"
+    (is (= "vigilance"
+           (decode "hmkbxebpxpmyllyrxiiqtoltfgzzv" "meetmeontuesdayeveningatseven")))
+    (is (= "scones"
+           (decode "egsgqwtahuiljgs" "meetmebythetree")))))
