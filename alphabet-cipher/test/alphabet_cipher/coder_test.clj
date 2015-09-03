@@ -17,7 +17,7 @@
            (decode "scones" "egsgqwtahuiljgs")))))
 
 (deftest test-decypher
-  (testing "can extract the secret keyword given an cyrpted message and tho original message"
+  (testing "can extract the secret keyword given an cyrpted message and the original message"
     (is (= "vigilance"
            (decode "opkyfipmfmwcvqoklyhxywgeecpvhelzg" "thequickbrownfoxjumpsoveralazydog")))
     (is (= "scones"
