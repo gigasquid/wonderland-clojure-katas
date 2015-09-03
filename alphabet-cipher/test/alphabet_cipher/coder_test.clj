@@ -19,6 +19,6 @@
 (deftest test-decypher
   (testing "can extract the secret keyword given an cyrpted message and tho original message"
     (is (= "vigilance"
-           (decode "hmkbxebpxpmyllyrxiiqtoltfgzzv" "meetmeontuesdayeveningatseven")))
+           (decode "opkyfipmfmwcvqoklyhxywgeecpvhelzg" "thequickbrownfoxjumpsoveralazydog")))
     (is (= "scones"
-           (decode "egsgqwtahuiljgs" "meetmebythetree")))))
+           (decode "hcqxqqtqljmlzhwiivgbsapaiwcenmyu" "packmyboxwithfivedozenliquorjugs")))))
