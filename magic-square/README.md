@@ -42,6 +42,8 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/miner/wonderland-clojure-katas/tree/magic/magic-square
 * https://github.com/julianjelfs/wonderland-clojure-katas/tree/master/magic-square
 * https://github.com/werand/wonderland-clojure-katas/tree/master/magic-square
+* https://github.com/priort/wonderland-clojure-katas/tree/master/magic-square
+
 
 If you haven't solved your kata yet - Don't Peek!
 
