@@ -16,9 +16,9 @@
     (is (= "meetmebythetree"
            (decode "scones" "egsgqwtahuiljgs")))))
 
-(deftest test-decypher
-  (testing "can extract the secret keyword given an cyrpted message and the original message"
+(deftest test-decipher
+  (testing "can extract the secret keyword given an encrypted message and the original message"
     (is (= "vigilance"
-           (decypher "opkyfipmfmwcvqoklyhxywgeecpvhelzg" "thequickbrownfoxjumpsoveralazydog")))
+           (decipher "opkyfipmfmwcvqoklyhxywgeecpvhelzg" "thequickbrownfoxjumpsoveralazydog")))
     (is (= "scones"
-           (decypher "hcqxqqtqljmlzhwiivgbsapaiwcenmyu" "packmyboxwithfivedozenliquorjugs")))))
+           (decipher "hcqxqqtqljmlzhwiivgbsapaiwcenmyu" "packmyboxwithfivedozenliquorjugs")))))
