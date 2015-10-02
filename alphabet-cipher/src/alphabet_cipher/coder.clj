@@ -6,6 +6,6 @@
 (defn decode [keyword message]
   "decodeme")
 
-(defn decypher [cypher message]
+(defn decipher [cipher message]
   "decypherme")
 
