@@ -39,6 +39,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/yzernik/wonderland-clojure-katas/tree/master/card-game-war
 * https://github.com/priort/wonderland-clojure-katas/tree/master/card-game-war
 * https://github.com/bradlucas/wonderland-clojure-katas/tree/card-game/card-game-war
+* https://github.com/harshita/wonderland-clojure-katas/tree/master/card-game-war
 
 If you haven't solved your kata yet - Don't Peek!
 
