@@ -1,6 +1,6 @@
 # card-game-war
 
-This kata is a version of the classic card game [War](http://en.wikipedia.org/wiki/War_%28card_game%29).  
+This kata is a version of the classic card game [War](http://en.wikipedia.org/wiki/War_%28card_game%29).
 
 ![Cards Painting](/images/cardspainting.gif)
 
@@ -38,6 +38,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/werand/wonderland-clojure-katas/tree/master/card-game-war
 * https://github.com/yzernik/wonderland-clojure-katas/tree/master/card-game-war
 * https://github.com/priort/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/bradlucas/wonderland-clojure-katas/tree/card-game/card-game-war
 
 If you haven't solved your kata yet - Don't Peek!
 
@@ -47,4 +48,3 @@ Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-
