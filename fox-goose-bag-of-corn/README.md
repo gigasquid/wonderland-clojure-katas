@@ -57,6 +57,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/priort/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
 * https://github.com/bradlucas/wonderland-clojure-katas/tree/fox-goose/fox-goose-bag-of-corn
 * https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/fox-goose-bag-of-corn
+* https://github.com/Rigo85/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
 
 If you haven't solved your kata yet - Don't Peek!
 
@@ -66,4 +67,3 @@ Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-
