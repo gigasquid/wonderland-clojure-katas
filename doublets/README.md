@@ -86,6 +86,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/bradlucas/wonderland-clojure-katas/tree/doublets/doublets
 * https://github.com/dryewo/wonderland-clojure-katas/blob/doublets-solution/doublets/src/doublets/solver.clj
 * https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/doublets
+* https://github.com/ultrakapy/wonderland-clojure-katas/tree/master/doublets
 
 If you haven't solved your kata yet - Don't Peek!
 
