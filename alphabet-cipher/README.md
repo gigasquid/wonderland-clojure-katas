@@ -103,6 +103,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/puhrez/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
 * https://github.com/ultrakapy/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
 * https://github.com/emmagordon/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/passaro/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
 
 If you haven't solved your kata yet - Don't Peek!
 
