@@ -15,8 +15,8 @@
         encoded (map #(apply mapper %) pairs)]
     (apply str encoded)))
 
-(defn encode [keyword message] (map-matrix col->row keyword message))
-(defn decode [keyword message] (map-matrix col->char keyword message))
+(def encode (partial map-matrix col->row))
+(def decode (partial map-matrix col->char))
 
 
 (defn decipher [cipher message]
