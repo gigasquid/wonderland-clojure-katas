@@ -20,4 +20,4 @@
 
 
 (defn decipher [cipher message]
-  "decypherme")
+  (map-matrix col->char message cipher))
