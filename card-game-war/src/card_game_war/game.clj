@@ -8,6 +8,19 @@
         rank ranks]
     [suit rank]))
 
-(defn play-round [player1-card player2-card])
+(def suits-score
+  (zipmap suits (iterate (partial + 1) 1)))
+
+(def ranks-score
+  (zipmap ranks (iterate (partial + 10) 10)))
+
+(defn card-score [[rank suit]]
+  (+ (get suits-score suit)
+     (get ranks-score rank)))
+
+(defn play-round [player1-card player2-card]
+  (let [card1-score (card-score player1-card)
+        card2-score (card-score player2-card)]
+    (- card2-score card1-score)))
 
 (defn play-game [player1-cards player2-cards])
