@@ -14,21 +14,27 @@
 (defn col->row [col char]
   (get (zipmap ALPHABET (chars-for-col col)) char))
 
-(defn map-matrix [mapper keyword message]
+(defn map-matrix
+  "Lookup a value in the matrix using the supplied mapper function."
+  [mapper keyword message]
   (let [pairs (map vector (cycle keyword) message)
         encoded (map #(apply mapper %) pairs)]
     (apply str encoded)))
 
 (defn find-repetition
-  [keyword]
-  (let [candidates (for [len (range (count keyword))]
-                     (let [w (take (inc len) keyword)]
-                       [(apply str w) (take (count keyword) (cycle w))]))]
-    (first (first (filter (fn [[word cycle]] (= (apply str cycle) keyword)) candidates)))))
+  "Given a word (string), find the shortest sequence of characters that the word is a repetition of (starting from index 0)"
+  [word]
+  (let [seq-word (seq word)
+        word-len (count seq-word)]
+    (loop [len 1]
+      (let [sub-word (take len seq-word)
+            repeated (take word-len (cycle sub-word))]
+        (if (= repeated seq-word)
+          (apply str sub-word)
+          (recur (inc len)))))))
 
 (def encode (partial map-matrix col->row))
 
 (def decode (partial map-matrix col->char))
 
-(defn decipher [cipher message]
-  (find-repetition (map-matrix col->char message cipher)))
+(defn decipher [cipher message] (find-repetition (map-matrix col->char message cipher)))
