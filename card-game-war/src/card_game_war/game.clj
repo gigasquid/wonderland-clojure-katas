@@ -8,22 +8,31 @@
         rank ranks]
     [rank suit]))
 
-(def suits-score
+(def suits-score "The value of a suit"
   (zipmap suits (iterate (partial + 1) 1)))
 
-(def ranks-score
+(def ranks-score "The value of a rank"
   (zipmap ranks (iterate (partial + 10) 10)))
 
-(defn card-score [[rank suit]]
+(defn card-score
+  "Calculate the the score for a card. Rank is weighted higher thann suit."
+  [[rank suit]]
   (+ (get suits-score suit)
      (get ranks-score rank)))
 
-(defn play-round [player1-card player2-card]
+(defn play-round
+  "Compare two cards. Returns a negative value of player1-card is
+  ranked higher than player2-card."
+  [player1-card player2-card]
   (let [card1-score (card-score player1-card)
         card2-score (card-score player2-card)]
     (- card2-score card1-score)))
 
-(defn play-game [player1-cards player2-cards]
+(defn play-game
+  "Plays a game, returns the final set of cards for the players.
+  The losing player will have a 'nil' value. The winning player will
+  have a seq of all the won cards."
+  [player1-cards player2-cards]
   (let [[c1 & cards-1] player1-cards
         [c2 & cards-2] player2-cards]
     (if-not (and c1 c2)
