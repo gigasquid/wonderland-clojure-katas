@@ -23,4 +23,14 @@
         card2-score (card-score player2-card)]
     (- card2-score card1-score)))
 
-(defn play-game [player1-cards player2-cards])
+(defn play-game [player1-cards player2-cards]
+  (let [[c1 & cards-1] player1-cards
+        [c2 & cards-2] player2-cards]
+    (if-not (and c1 c2)
+      [player1-cards player2-cards] ;; Game's over - return the cards for the players.
+      (if (neg? (play-round c1 c2)) ;; Evaluate the top cards
+        (recur (conj (vec cards-1) c1 c2)
+               cards-2) ;; player1 won
+        (recur cards-1
+               (conj (vec cards-2) c2 c1)) ;; player2 won
+        ))))
