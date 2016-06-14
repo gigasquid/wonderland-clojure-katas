@@ -6,7 +6,7 @@
 (def cards
   (for [suit suits
         rank ranks]
-    [suit rank]))
+    [rank suit]))
 
 (def suits-score
   (zipmap suits (iterate (partial + 1) 1)))
@@ -27,10 +27,18 @@
   (let [[c1 & cards-1] player1-cards
         [c2 & cards-2] player2-cards]
     (if-not (and c1 c2)
-      [player1-cards player2-cards] ;; Game's over - return the cards for the players.
+      (do
+        (printf "Player %s won\n" (if c1 "1" "2"))
+        [player1-cards player2-cards]) ;; Game's over - return the cards for the players.
       (if (neg? (play-round c1 c2)) ;; Evaluate the top cards
         (recur (conj (vec cards-1) c1 c2)
-               cards-2) ;; player1 won
+               cards-2)
         (recur cards-1
-               (conj (vec cards-2) c2 c1)) ;; player2 won
-        ))))
+               (conj (vec cards-2) c2 c1))))))
+
+(defn create-game
+  "Shuffle the deck and run a game!"
+  []
+  (let [deck (shuffle cards)
+        [player1-cards player2-cards] (split-at (/ (count deck) 2) deck)]
+    (play-game player1-cards player2-cards)))

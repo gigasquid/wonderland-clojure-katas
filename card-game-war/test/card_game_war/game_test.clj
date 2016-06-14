@@ -28,5 +28,11 @@
     (is (< (play-round [2 :heart] [2 :diamond]) 0))))
 
 (deftest test-play-game
-  (testing "the player loses when they run out of cards"))
-
+  (testing "the player loses when they run out of cards"
+    (let [[player1 player2] (play-game [[2 :spade]
+                                        [:ace :heart]
+                                        [5 :club]]
+                                       [[3 :spade]
+                                        [:ace :spade]
+                                        [7 :club]])]
+          (is player1 "Player 1 should win"))))
