@@ -1,4 +1,4 @@
-﻿# alphabet-cipher
+# alphabet-cipher
 
 Lewis Carroll published a cipher known as
 [The Alphabet Cipher](http://en.wikipedia.org/wiki/The_Alphabet_Cipher)
@@ -105,6 +105,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/emmagordon/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
 * https://github.com/passaro/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
 * https://github.com/metamorph/wonderland-clojure-katas/tree/alphabet-cipher (includes decypher solution)
+* https://github.com/JustinSpedding/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
 
 If you haven't solved your kata yet - Don't Peek!
 
