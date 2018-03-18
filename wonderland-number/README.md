@@ -42,6 +42,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/kimsnj/wonderland-clojure-katas/tree/master/wonderland-number
 * https://github.com/madhat2r/wonderland-clojure-katas/tree/master/wonderland-number
 * https://github.com/aquaraga/wonderland-clojure-katas/tree/master/wonderland-number
+* https://github.com/zelark/wonderland-clojure-katas/tree/solution/wonderland-number
 
 If you haven't solved your kata yet - Don't Peek!
 

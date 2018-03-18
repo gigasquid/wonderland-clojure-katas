@@ -53,6 +53,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/RokLenarcic/wonderland-clojure-katas/tree/master/tiny-maze
 * https://github.com/kimsnj/wonderland-clojure-katas/tree/master/tiny-maze
 * https://github.com/whiteotter/wonderland-clojure-katas/tree/master/tiny-maze
+* https://github.com/zelark/wonderland-clojure-katas/tree/solution/tiny-maze
 
 If you haven't solved your kata yet - Don't Peek!
 
