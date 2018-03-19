@@ -21,4 +21,6 @@
     (is (= "vigilance"
            (decipher "opkyfipmfmwcvqoklyhxywgeecpvhelzg" "thequickbrownfoxjumpsoveralazydog")))
     (is (= "scones"
-           (decipher "hcqxqqtqljmlzhwiivgbsapaiwcenmyu" "packmyboxwithfivedozenliquorjugs")))))
+           (decipher "hcqxqqtqljmlzhwiivgbsapaiwcenmyu" "packmyboxwithfivedozenliquorjugs")))
+    (is (= "abcabcx"
+           (decipher "hfnlphoontutufa" "hellofromrussia")))))
