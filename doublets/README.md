@@ -94,6 +94,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/dimitrijer/wonderland-clojure-katas/tree/master/doublets
 * https://github.com/saicheong/wonderland-clojure-katas/tree/master/doublets
 * https://github.com/zelark/wonderland-clojure-katas/tree/solution/doublets
+* https://github.com/Average-user/wonderland-clojure-katas/tree/master/doublets
 
 If you haven't solved your kata yet - Don't Peek!
 
