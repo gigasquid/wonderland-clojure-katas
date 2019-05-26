@@ -17,7 +17,7 @@ The rules of this card game are quite simple.
 - If both cards are of equal value - three cards are dealt from each hand face down and then 1 more face up to war again. the winner takes all the cards. If this ties repeat the process again.
 - The player that runs out of cards loses.
 
-If you are stuck, you might want to sneak a peak at this [sample scenario](sample_cenario.md)
+If you are stuck, you might want to sneak a peak at this [sample scenario](sample_scenario.md)
 
 ## Instructions
 
