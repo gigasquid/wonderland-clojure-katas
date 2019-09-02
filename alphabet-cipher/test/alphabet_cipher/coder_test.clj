@@ -5,9 +5,9 @@
 (deftest test-repeat-keyword
   (testing "repeat keyword to have the same length as the message"
     (is (= "vigilancevigilancevigilancevi"
-           (repeat "vigilance" "meetmeontuesdayeveningatseven")))
+           (repeat-keyword "vigilance" "meetmeontuesdayeveningatseven")))
     (is (= "vigilancevigila"
-           (repeat "vigilancevigila" "meetmebythetree")))))
+           (repeat-keyword "vigilancevigila" "meetmebythetree")))))
 
 (deftest test-encode
   (testing "can encode a message with a secret keyword"
