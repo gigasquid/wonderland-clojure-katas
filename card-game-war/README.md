@@ -52,7 +52,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/aquaraga/wonderland-clojure-katas/tree/master/card-game-war
 * https://github.com/zelark/wonderland-clojure-katas/tree/solution/card-game-war
 * https://github.com/LucianaMarques/wonderland-clojure-katas/tree/luciana-card-game-war
-
+* https://github.com/raydel95/wonderland-clojure-katas/tree/master/card-game-war
 If you haven't solved your kata yet - Don't Peek!
 
 ## License
