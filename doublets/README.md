@@ -74,6 +74,7 @@ Also don't be shy looking for other libraries or tools to help you.
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
+* https://github.com/raydel95/wonderland-clojure-katas/tree/master/doublets
 * https://github.com/gensym/wonderland-clojure-katas/tree/doublets-solution/doublets
 * https://github.com/mwfogleman/wonderland-clojure-katas/tree/doublets/doublets
 * https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/doublets
