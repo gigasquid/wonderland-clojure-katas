@@ -98,6 +98,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/Average-user/wonderland-clojure-katas/tree/master/doublets
 * https://github.com/m1kal/wonderland-clojure-katas/tree/master/doublets
 * https://github.com/LucianaMarques/wonderland-clojure-katas/tree/doublets-solution
+* https://github.com/manuel-colmenero/wonderland-clojure-katas/tree/master/doublets
 
 If you haven't solved your kata yet - Don't Peek!
 
