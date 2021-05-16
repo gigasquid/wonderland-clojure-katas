@@ -54,6 +54,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/LucianaMarques/wonderland-clojure-katas/tree/luciana-card-game-war
 * https://github.com/raydel95/wonderland-clojure-katas/tree/master/card-game-war
 * https://github.com/manuel-colmenero/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/kuchichan/wonderland-clojure-katas/tree/master/card-game-war
 
 If you haven't solved your kata yet - Don't Peek!
 
