@@ -56,6 +56,7 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/raydel95/wonderland-clojure-katas/tree/master/magic-square
 * https://github.com/manuel-colmenero/wonderland-clojure-katas/tree/master/magic-square
 * https://github.com/kuchichan/wonderland-clojure-katas/tree/master/magic-square
+* https://github.com/adql/wonderland-clojure-katas/tree/solutions/magic-square
 
 If you haven't solved your kata yet - Don't Peek!
 
