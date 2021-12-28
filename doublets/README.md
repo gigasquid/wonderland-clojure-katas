@@ -58,7 +58,7 @@ bread
 
 - Clone or fork this repo
 - `cd doublets`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - Make the tests pass!
 
 A sample dictionary has been included with a few words to get things going.  After you solve the kata, you might want to try a bigger dictionary to discover more exciting doublets.

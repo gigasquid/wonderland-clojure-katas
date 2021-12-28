@@ -34,7 +34,7 @@ _:x_ in the start, the path, and the end of the maze, like this.
 
 - Clone or fork this repo
 - `cd tiny-maze`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - Make the tests pass!
 
 ## Solutions
