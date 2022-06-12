@@ -4,7 +4,7 @@ One of Lewis Carroll's favorite puzzles to ask children was the one
 about the _Fox, Goose, and Bag of Corn_.  It has to do with getting
 them all safely across a river.
 
-![alice swimming](/images/storytelling.gif)
+![alice swimming](../images/storytelling.gif)
 
 
 The rules for this puzzle are:

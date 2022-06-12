@@ -5,7 +5,7 @@ These are a collection of Clojure
 [Lewis Carroll](http://en.wikipedia.org/wiki/Lewis_Carroll) and _Alice
 in Wonderland_.
 
-![Alice and the tiny door](/images/alicedoor.gif)
+![Alice and the tiny door](./images/alicedoor.gif)
 
 >“Curiouser and curiouser!” 
 >-- ― Lewis Carroll, Alice in Wonderland
