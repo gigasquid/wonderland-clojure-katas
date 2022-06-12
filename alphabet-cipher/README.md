@@ -72,7 +72,7 @@ To decode, the person would use the secret keyword and do the opposite.
 
 - Clone or fork this repo
 - `cd alphabet-cipher`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - Make the tests pass!
 
 ## Solutions

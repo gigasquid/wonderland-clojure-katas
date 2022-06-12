@@ -31,7 +31,7 @@ You need to arrange them in a 3 x 3 matrix so that:
 
 - Clone or fork this repo
 - `cd magic-square`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - Make the tests pass!
 
 ## Solutions

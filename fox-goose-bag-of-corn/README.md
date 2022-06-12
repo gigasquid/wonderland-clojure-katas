@@ -43,7 +43,7 @@ The goal is to have the plan in steps so that all make it safely to the other si
 
 - Clone or fork this repo
 - `cd fox-goose-bag-of-corn`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - Make the tests pass!
 
 ## Solutions

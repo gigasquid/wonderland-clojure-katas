@@ -23,7 +23,7 @@ If you are stuck, you might want to sneak a peak at this [sample scenario](sampl
 
 - Clone or fork this repo
 - `cd card-game-war`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - In this kata, you will be prompted to fill in your own tests.
 - Make the tests pass!
 

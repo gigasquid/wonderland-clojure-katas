@@ -19,7 +19,7 @@ You must find a way to generate this wonderland number.
 
 - Clone or fork this repo
 - `cd wonderland-number`
-- Run the tests with `lein test`
+- Run the tests with `clj -X:test`
 - Make the tests pass!
 
 ## Solutions
